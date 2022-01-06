@@ -30,11 +30,12 @@ Here are some ideas to get you started:
 <img align="left" height="32" width="32" src="https://github.com/erikjny/erikjny/blob/main/img/html5.svg" />
 <img align="left" height="32" width="32" src="https://github.com/erikjny/erikjny/blob/main/img/css3.svg" />
 <img align="left" height="32" width="32" src="https://github.com/erikjny/erikjny/blob/main/img/react.svg" />
+<img align="left" height="32" width="32" src="https://www.w3.org/Icons/SW/Buttons/sw-owl-blue-v.svg" />
 
 <br>
 
 ## Currently learning
-<img align="left" height="32" width="32" src="https://www.w3.org/Icons/SW/Buttons/sw-owl-blue-v.svg" />
+<img align="left" height="32" width="32" src="https://github.com/erikjny/erikjny/blob/main/img/haskell.svg" />
 
 ## Goals for 2022!
 - Upload Android-app
