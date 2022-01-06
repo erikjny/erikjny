@@ -21,4 +21,4 @@ Haskell
 ## Learning
 <img align="left" height="32" width="32" src="https://github.com/erikjny/erikjny/blob/main/img/haskell-icon.svg" />
 
-[haskell]: https://github.com/erikjny/erikjny/blob/main/img/haskell-icon.svg
+[haskell]: https://icons8.com/icons/set/haskell
