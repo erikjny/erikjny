@@ -35,9 +35,9 @@ Here are some ideas to get you started:
 
 ## Currently learning
 <img align="left" height="32" width="32" src="https://github.com/erikjny/erikjny/blob/main/img/haskell.svg" />
-<img align="left" height="32" width="100" src="https://www.w3.org/Icons/SW/Buttons/sw-owl-blue-v.svg" />
-<img align="left" height="32" width="100" src="https://www.w3.org/Icons/SW/Buttons/sw-rdf-blue-v.svg" />
-<img align="left" height="32" width="100" src="https://www.w3.org/Icons/SW/Buttons/sw-sparql-blue-v.svg" />
+<img align="left" height="32" width="120" src="https://www.w3.org/Icons/SW/Buttons/sw-owl-blue-v.svg" />
+<img align="left" height="32" width="120" src="https://www.w3.org/Icons/SW/Buttons/sw-rdf-blue-v.svg" />
+<img align="left" height="32" width="120" src="https://www.w3.org/Icons/SW/Buttons/sw-sparql-blue-v.svg" />
 
 <br>
 
