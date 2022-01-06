@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 <img align="left" height="32" width="32" src="https://github.com/erikjny/erikjny/blob/main/img/html5.svg" />
 <img align="left" height="32" width="32" src="https://github.com/erikjny/erikjny/blob/main/img/css3.svg" />
 <img align="left" height="32" width="32" src="https://github.com/erikjny/erikjny/blob/main/img/react.svg" />
-<img align="left" height="32" width="32" src="https://www.w3.org/Icons/SW/Buttons/sw-owl-blue.png" />
+<img align="left" height="32" width="32" src="https://github.com/erikjny/erikjny/blob/main/img/w3c-owl.svg" />
 
 <br>
 
