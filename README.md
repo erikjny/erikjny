@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 <img align="left" height="32" width="32" src="https://github.com/erikjny/erikjny/blob/main/img/bash.svg" />
 
 <img align="left" height="32" width="32" src="https://github.com/erikjny/erikjny/blob/main/img/android-studio.svg" />
-<img align="left" height="32" width="32" src="https://github.com/erikjny/erikjny/blob/main/img/postgresql.svg" />
+[<img align="left" height="32" width="32" src="https://github.com/erikjny/erikjny/blob/main/img/postgresql.svg" />][cocktailDB]
 <img align="left" height="32" width="32" src="https://github.com/erikjny/erikjny/blob/main/img/react.svg" />
 
 <br>
@@ -36,3 +36,5 @@ Here are some ideas to get you started:
 <img align="left" height="32" width="32" src="https://github.com/erikjny/erikjny/blob/main/img/haskell.svg" />
 
 [haskell]: https://icons8.com/icons/set/haskell
+[cocktailDB]: https://github.com/erikjny/Cocktails
+
