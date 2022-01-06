@@ -15,10 +15,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## Languages and tools
-Haskell
-[<img align="left" height="32" width="32" src="https://github.com/erikjny/erikjny/blob/main/img/haskell-icon.svg" />][haskell]
+<img align="left" height="32" width="32" src="https://github.com/erikjny/erikjny/blob/main/img/java.svg" />
+<img align="left" height="32" width="32" src="https://github.com/erikjny/erikjny/blob/main/img/python.svg" />
+<img align="left" height="32" width="32" src="https://github.com/erikjny/erikjny/blob/main/img/kotlin.svg" />
+<img align="left" height="32" width="32" src="https://github.com/erikjny/erikjny/blob/main/img/android-studio.svg" />
+<img align="left" height="32" width="32" src="https://github.com/erikjny/erikjny/blob/main/img/postgresql.svg" />
+<img align="left" height="32" width="32" src="https://github.com/erikjny/erikjny/blob/main/img/react.svg" />
 
 ## Learning
-<img align="left" height="32" width="32" src="https://github.com/erikjny/erikjny/blob/main/img/haskell-icon.svg" />
+<img align="left" height="32" width="32" src="https://github.com/erikjny/erikjny/blob/main/img/haskell.svg" />
 
 [haskell]: https://icons8.com/icons/set/haskell
