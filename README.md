@@ -20,6 +20,7 @@ Here are some ideas to get you started:
 [<img align="left" height="32" width="32" src="https://github.com/erikjny/erikjny/blob/main/img/postgresql.svg" />][cocktailDB]
 [<img align="left" height="32" width="32" src="https://github.com/erikjny/erikjny/blob/main/img/python.svg" />][sudoku]
 
+<img align="left" height="32" width="32" src="https://github.com/erikjny/erikjny/blob/main/img/arduino.svg" />
 <img align="left" height="32" width="32" src="https://github.com/erikjny/erikjny/blob/main/img/git.svg" />
 <img align="left" height="32" width="32" src="https://github.com/erikjny/erikjny/blob/main/img/bash.svg" />
 <img align="left" height="32" width="32" src="https://github.com/erikjny/erikjny/blob/main/img/kotlin.svg" />
