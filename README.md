@@ -16,19 +16,21 @@ Here are some ideas to get you started:
 -->
 
 ## Languages and tools
-<img align="left" height="32" width="32" src="https://github.com/erikjny/erikjny/blob/main/img/java.svg" />
+≤!-- Med link til prosjekt --> 
+[<img align="left" height="32" width="32" src="https://github.com/erikjny/erikjny/blob/main/img/java.svg" />][cocktailDB]
+[<img align="left" height="32" width="32" src="https://github.com/erikjny/erikjny/blob/main/img/postgresql.svg" />][cocktailDB]
 <img align="left" height="32" width="32" src="https://github.com/erikjny/erikjny/blob/main/img/python.svg" />
 <img align="left" height="32" width="32" src="https://github.com/erikjny/erikjny/blob/main/img/kotlin.svg" />
 <img align="left" height="32" width="32" src="https://github.com/erikjny/erikjny/blob/main/img/javascript.svg" />
 
-<img align="left" height="32" width="32" src="https://github.com/erikjny/erikjny/blob/main/img/html5.svg" />
-<img align="left" height="32" width="32" src="https://github.com/erikjny/erikjny/blob/main/img/css3.svg" />
+
 <img align="left" height="32" width="32" src="https://github.com/erikjny/erikjny/blob/main/img/git.svg" />
 <img align="left" height="32" width="32" src="https://github.com/erikjny/erikjny/blob/main/img/bash.svg" />
-
-[<img align="left" height="32" width="32" src="https://github.com/erikjny/erikjny/blob/main/img/android-studio.svg" />][]
-[<img align="left" height="32" width="32" src="https://github.com/erikjny/erikjny/blob/main/img/postgresql.svg" />][cocktailDB]
+≤!-- Uten link til prosjekt --> 
+<img align="left" height="32" width="32" src="https://github.com/erikjny/erikjny/blob/main/img/android-studio.svg" />
 <img align="left" height="32" width="32" src="https://github.com/erikjny/erikjny/blob/main/img/react.svg" />
+<img align="left" height="32" width="32" src="https://github.com/erikjny/erikjny/blob/main/img/html5.svg" />
+<img align="left" height="32" width="32" src="https://github.com/erikjny/erikjny/blob/main/img/css3.svg" />
 
 <br>
 
