@@ -14,7 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## Languages
+## Languages and tools
 Haskell
+[<img align="left" height="32" width="32" src="https://github.com/erikjny/erikjny/blob/main/img/haskell-icon.svg" />][haskell]
 
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/simpleicons.svg" />
+## Learning
+<img align="left" height="32" width="32" src="https://github.com/erikjny/erikjny/blob/main/img/haskell-icon.svg" />
+
+[haskell]: https://icons8.com/icons/set/haskell
