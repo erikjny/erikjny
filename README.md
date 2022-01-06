@@ -23,6 +23,7 @@ Here are some ideas to get you started:
 <img align="left" height="32" width="32" src="https://github.com/erikjny/erikjny/blob/main/img/postgresql.svg" />
 <img align="left" height="32" width="32" src="https://github.com/erikjny/erikjny/blob/main/img/react.svg" />
 
+<br>
 
 ## Learning
 <img align="left" height="32" width="32" src="https://github.com/erikjny/erikjny/blob/main/img/haskell.svg" />
