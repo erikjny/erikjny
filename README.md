@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 ## Languages
 Haskell
 
-<img height="32" width="32" src="https://github.com/erikjny/erikjny/blob/main/img/haskell-icon.svg" />
-<img height="32" width="32" src="https://github.com/erikjny/erikjny/blob/main/img/haskell-icon.svg" />
+<img align="left" height="32" width="32" src="https://github.com/erikjny/erikjny/blob/main/img/haskell-icon.svg" />
+<img align="left" height="32" width="32" src="https://github.com/erikjny/erikjny/blob/main/img/haskell-icon.svg" />
 <img height="32" width="32" src="https://github.com/erikjny/erikjny/blob/main/img/haskell-icon.svg" />
 <img height="32" width="32" src="https://github.com/erikjny/erikjny/blob/main/img/haskell-icon.svg" />
 <img height="32" width="32" src="https://github.com/erikjny/erikjny/blob/main/img/haskell-icon.svg" />
