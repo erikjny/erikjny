@@ -42,10 +42,10 @@ Here are some ideas to get you started:
 
 ## Goals for 2022!
 - Upload Android-app
-- Build extensive haskell application
+- Build haskell application
 - Complete Fifa-react app
 - Learn about data engineering
-
+- Build python-application using the pandas-library
 
 [haskell]: https://icons8.com/icons/set/haskell
 [cocktailDB]: https://github.com/erikjny/Cocktails
